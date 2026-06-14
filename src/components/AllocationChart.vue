@@ -70,8 +70,7 @@ function initChart() {
         position: 'outside',
         color: '#94A3B8',
         fontSize: 10,
-        formatter: '{b}
-{d}%'
+        formatter: '{b}\n{d}%'
       },
       labelLine: {
         lineStyle: { color: 'rgba(148,163,184,0.3)' }
